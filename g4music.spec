@@ -43,7 +43,7 @@ Features:
 - Supports MPRIS control.
  
 %prep
-%autosetup %{name}-v%{version} -p1
+%autosetup -n %{name}-v%{version} -p1
  
 # From fedora - only requires that appstream-util pass at the validate-relax level
 sed -i "s/'validate'/'validate-relax'/" data/meson.build
