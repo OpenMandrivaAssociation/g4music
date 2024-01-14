@@ -5,7 +5,7 @@ Summary:        Fast fluent lightweight music player written in GTK4
 Group:          Sound
 License:        GPL-3.0-or-later
 URL:            https://gitlab.gnome.org/neithern/g4music
-Source0:        https://gitlab.gnome.org/neithern/g4music/-/archive/v%{version}/%{name}-%{version}.tar.bz2
+Source0:        https://gitlab.gnome.org/neithern/g4music/-/archive/v%{version}/%{name}-v%{version}.tar.bz2
 
 BuildRequires:  appstream-util
 BuildRequires:  desktop-file-utils
