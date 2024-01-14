@@ -1,3 +1,6 @@
+### workaround for Clang 15+
+%global optflags %{optflags} -Wno-incompatible-function-pointer-types
+
 Name:           g4music
 Version:        3.5.1
 Release:        1
