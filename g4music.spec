@@ -2,7 +2,7 @@
 %global optflags %{optflags} -Wno-incompatible-function-pointer-types
 
 Name:           g4music
-Version:        3.8.2
+Version:        3.9
 Release:        1
 Summary:        Fast fluent lightweight music player written in GTK4
 Group:          Sound
