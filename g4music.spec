@@ -22,6 +22,8 @@ BuildRequires:  vala
  
 Requires:       dbus-common
 Requires:       hicolor-icon-theme
+
+Provides: gapless = %{version}-%{release}
  
 %description
 G4Music is a fast fluent lightweight music player written in GTK4, with
