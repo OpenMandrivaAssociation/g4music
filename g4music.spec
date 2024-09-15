@@ -70,5 +70,5 @@ sed -i "s/'validate'/'validate-relax'/" data/meson.build
 %{_datadir}/glib-2.0/schemas/com.github.neithern.g4music.gschema.xml
 %{_datadir}/icons/hicolor/scalable/apps/com.github.neithern.g4music.svg
 %{_datadir}/icons/hicolor/symbolic/apps/com.github.neithern.g4music-symbolic.svg
-%{_metainfodir}/com.github.neithern.g4music.appdata.xml
+%{_metainfodir}/com.github.neithern.g4music.metainfo.xml
  
