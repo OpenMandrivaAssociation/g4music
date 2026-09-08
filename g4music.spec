@@ -3,7 +3,7 @@
 
 Name:           g4music
 Version:        4.6.2
-Release:        1
+Release:        2
 Summary:        Fast fluent lightweight music player written in GTK4
 Group:          Sound
 License:        GPL-3.0-or-later
